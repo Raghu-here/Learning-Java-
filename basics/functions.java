@@ -1,5 +1,7 @@
 package basics;
 
+import java.util.Scanner;
+
 public class functions {
     public static int add(int a, int b) {
         return a + b;
