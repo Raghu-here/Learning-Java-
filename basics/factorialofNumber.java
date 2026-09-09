@@ -1,4 +1,4 @@
-package basics;
+
 
 public class factorialofNumber {
     public static void main(String[] args) {
